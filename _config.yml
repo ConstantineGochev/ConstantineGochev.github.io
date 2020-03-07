@@ -11,6 +11,7 @@ website: https://constantinegochev.github.io/
 # Social links
 # twitter_username: facespics
 github_username:  constantinegochev
+stackoverflow_username: C.Gochev
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -24,7 +25,7 @@ linkedin_username: константин-гочев
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Constantine and I'm a software engineer. As well as engineering systems I also have experience administrating linux systems. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Constantine and I'm a software engineer. As well as engineering systems I also have experience administrating linux systems. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Javascript</mark> and <mark>MongoDB</mark>
 
