@@ -1,6 +1,6 @@
 - layout: left
   name: AnchorGateway
-  link: github.com/sproogen
+  link: https://github.com/ConstantineGochev/anchor-gateway
   github: https://github.com/ConstantineGochev/anchor-gateway
   quote: >
      A microservice api gateway for node
