@@ -1,10 +1,17 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: UNWE
+  dates: 2011 - 2012
+  qualification: Political Sciences
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    The Department of Political Science at the University of National and World Economy was founded in 1990. At the beginning of the 1990s, the department's lecturers developed the first university courses and the first curricula for the specialty "Political Science".
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Quickly realized I was not made for politics
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Sofia University, "St. Kliment Ohridski"
+  dates: 2012 - 2013
+  qualification: Archaeology
+  quote: >
+    The Department of Archaeology takes part in joint research projects with partners from the universities of Berlin, Saarbrücken, Frankfurt am Main, Hamburg and Thessaloniki.
+  description: | # this will include new lines to allow paragraphs
+    Better but still people in this field are too dogmatic.
