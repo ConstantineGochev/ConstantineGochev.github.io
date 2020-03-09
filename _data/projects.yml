@@ -15,3 +15,11 @@
      A peer to peer platform for yachting services
   description: | # this will include new lines to allow paragraphs
     A platform  I am working on.
+
+- layout: left
+  name: CryptoChat
+  link: http://www.cryptochat.world
+  quote: >
+     A small chating app
+  description: | # this will include new lines to allow paragraphs
+    Very fun and cool chatting 
