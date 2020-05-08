@@ -10,7 +10,7 @@ website: https://constantinegochev.github.io/
 
 # Social links
 # twitter_username: facespics
-github_username:  constantinegochev
+github_username: constantinegochev
 stackoverflow_username: 7207993/c-gochev
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Javascript</mark> and <mark>MongoDB</mark>
 
-  Very into <mark>Rust</mark> lately incorporating it into my services.
+  I enjoy <mark>Rust</mark> and <mark>Golang</mark> the most lately incorporating them into my services.
 # Projects Section
 # projects_title: Projects
 
@@ -58,4 +58,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
