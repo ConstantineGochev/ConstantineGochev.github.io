@@ -6,7 +6,7 @@
   quote: >
     Creating APIs for an Online Casino and developing games
   description: | # this will include new lines to allow paragraphs
-    I had great fun developing services for EGT. I  enjoyed driving the company to try new technologies.
+    I had great fun developing services for EGT. Worked mostly on nodejs APIs and aggregation services but also frontend with react.js
 - layout: left
   company: Odyssey Yachting
   link: https://odysseyyachting.org/
@@ -14,4 +14,12 @@
   dates: Nov 2018 - now
   quote: >
     Solving 21st century problems by creating a great yachting platform
+  description: | # this will include new lines to allow paragraphs
+    Relatively big project I created using Nodejs, Docker, MongoDB as a independent contractor
+- layout: left
+  company: Freelance platforms
+  job_title: Senior Software Engineer
+  dates: Nov 2018 - now
+  quote: >
+      Working as a free contractor
   description: | # this will include new lines to allow paragraphs

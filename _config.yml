@@ -11,7 +11,7 @@ website: https://constantinegochev.github.io/
 # Social links
 # twitter_username: facespics
 github_username: constantinegochev
-stackoverflow_username: 7207993
+stackoverflow_username: 7207993/c-gochev?tab=profile
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -25,11 +25,15 @@ linkedin_username: константин-гочев-97a224151
 # about_title: About Me
 about_profile_image: images/snimka.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Constantine and I'm a software engineer. As well as engineering systems I also have experience administrating linux systems. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Constantine and I'm a software engineer. As well as engineering systems I also have experience administrating linux systems
+  and virtualizing services with <mark>KVM</mark> and <mark> Docker </mark>.
 
-  I am most skilled in: <mark>Javascript</mark> and <mark>MongoDB</mark>
+  I have 5 years of experience in the industry gaining teamwork and leadership skills.
 
-  I enjoy <mark>Rust</mark> and <mark>Golang</mark> the most lately incorporating them into my services.
+  I am most skilled in <mark>Javascript</mark> using the language both as a backend and frontend(react.js).
+  Databases of choice for me are: <mark> MongoDB </mark>, <mark> PostgreSQL </mark> and <mark> Redis </mark> depending on the needs of the project.
+  
+  As I grew as a developer I started using <mark>Rust</mark> and <mark>Golang</mark> around 2 years ago and lately I have been incorporating them into my services.
 # Projects Section
 # projects_title: Projects
 
@@ -43,7 +47,6 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Sailing
    - Snooker
    - Running
 

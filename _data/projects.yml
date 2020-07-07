@@ -15,14 +15,20 @@
   description: | # this will include new lines to allow paragraphs
     Very small library that enables very easy handling of things like load balancing, proxying web sockets, dynamic routing and SSL encryption.
     AnchorGateway includes everything you need for easy reverse routing of your applications. Great for handling microservice routing from different domains in one single host, handling SSL and web sockets.
-
 - layout: left
   name: OdysseyYachting
   link: https://odysseyyachting.org
   quote: >
-    A peer to peer platform for yachting services
+    A peer to peer platform for yachting services I created as a independent contractor.
   description: | # this will include new lines to allow paragraphs
     A platform  I worked on. A server-side rendered nodejs monolith.
+- layout: left
+  name: Aiolys
+  link: http://aiolys.org/
+  quote: >
+    A multiplayer music based game.
+  description: | # this will include new lines to allow paragraphs
+    A platform I worked on. A server-side rendered nodejs monolith.
 - layout: left
   name: EGT Games
   link: https://egt-interactive.com/
