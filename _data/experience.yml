@@ -5,9 +5,9 @@
   job_title:  Independent Contractor Senior Software Engineer
   dates: Nov 2018 - Dec 2019
   quote: >
-  Great yachting platform
+    Great yachting platform
   description: | # this will include new lines to allow paragraphs
-  Relatively big project I created using Nodejs, Docker, MongoDB as a independent contractor
+    Relatively big project I created using Nodejs, Docker, MongoDB as a independent contractor
 
 - layout: left
   company: EGT Interactive
