@@ -28,11 +28,11 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Constantine and I'm a software engineer. As well as engineering systems I also have experience administrating linux systems
   and virtualizing services with <mark>KVM</mark> and <mark> Docker </mark>.
 
-  I have 5 years of experience in the industry gaining teamwork and leadership skills.
+  I have 4 years of experience in the industry gaining teamwork and leadership skills.
 
   I am most skilled in <mark>Javascript</mark> using the language both as a backend and frontend(react.js).
   Databases of choice for me are: <mark> MongoDB </mark>, <mark> PostgreSQL </mark> and <mark> Redis </mark> depending on the needs of the project.
-  
+
   As I grew as a developer I started using <mark>Rust</mark> and <mark>Golang</mark> around 2 years ago and lately I have been incorporating them into my services.
 # Projects Section
 # projects_title: Projects

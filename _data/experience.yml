@@ -1,4 +1,20 @@
 - layout: left
+company: Freelance platforms
+job_title: Senior Software Engineer
+dates: Nov 2018 - now
+quote: >
+Working as a free contractor
+description: | # this will include new lines to allow paragraphs
+- layout: left
+company: Odyssey Yachting
+link: https://odysseyyachting.org/
+job_title: Senior Software Engineer
+dates: Nov 2018 - Dec 2019
+quote: >
+Solving 21st century problems by creating a great yachting platform
+description: | # this will include new lines to allow paragraphs
+Relatively big project I created using Nodejs, Docker, MongoDB as a independent contractor
+- layout: left
   company: EGT Interactive
   link: https://egt-interactive.com/
   job_title: Senior Software Engineer
@@ -8,18 +24,9 @@
   description: | # this will include new lines to allow paragraphs
     I had great fun developing services for EGT. Worked mostly on nodejs APIs and aggregation services but also frontend with react.js
 - layout: left
-  company: Odyssey Yachting
-  link: https://odysseyyachting.org/
-  job_title: Senior Software Engineer
-  dates: Nov 2018 - now
+  company: GMC
+  job_title: Internship
+  dates: Jan 2017 - June 2017
   quote: >
-    Solving 21st century problems by creating a great yachting platform
-  description: | # this will include new lines to allow paragraphs
-    Relatively big project I created using Nodejs, Docker, MongoDB as a independent contractor
-- layout: left
-  company: Freelance platforms
-  job_title: Senior Software Engineer
-  dates: Nov 2018 - now
-  quote: >
-      Working as a free contractor
+      Internship using Drupal, html, css
   description: | # this will include new lines to allow paragraphs
