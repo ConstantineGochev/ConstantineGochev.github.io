@@ -5,13 +5,14 @@
   quote: >
   Working as a free contractor
   description: | # this will include new lines to allow paragraphs
+  IC
 - layout: left
   company: Odyssey Yachting
   link: https://odysseyyachting.org/
   job_title:  Independent Contractor Senior Software Engineer
   dates: Nov 2018 - Dec 2019
   quote: >
-  Solving 21st century problems by creating a great yachting platform
+  Great yachting platform
   description: | # this will include new lines to allow paragraphs
   Relatively big project I created using Nodejs, Docker, MongoDB as a independent contractor
 
@@ -32,3 +33,4 @@
   quote: >
       Internship using Drupal, html, css
   description: | # this will include new lines to allow paragraphs
+  Internship
