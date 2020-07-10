@@ -1,11 +1,11 @@
-- layout: left
-  company: Freelance platforms
-  job_title: Independent Contractor
-  dates: Nov 2018 - now
-  quote: >
-  Working as a free contractor
-  description: | # this will include new lines to allow paragraphs
-  IC
+#- layout: left
+#  company: Freelance platforms
+#  job_title: Independent Contractor
+#  dates: Nov 2018 - now
+#  quote: >
+#  Working as a free contractor
+#  description: | # this will include new lines to allow paragraphs
+#  IC
 - layout: left
   company: Odyssey Yachting
   link: https://odysseyyachting.org/
@@ -26,11 +26,11 @@
   description: | # this will include new lines to allow paragraphs
     I gained alot of experience developing services for EGT. Worked mostly on nodejs APIs and aggregation services but also frontend with react.js
 
-- layout: left
-  company: GMC
-  job_title: Internship
-  dates: Jan 2017 - June 2017
-  quote: >
-      Internship using Drupal, html, css
-  description: | # this will include new lines to allow paragraphs
-  Internship
+#- layout: left
+#  company: GMC
+#  job_title: Internship
+#  dates: Jan 2017 - June 2017
+#  quote: >
+#      Internship using Drupal, html, css
+#  description: | # this will include new lines to allow paragraphs
+#  Internship
