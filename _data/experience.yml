@@ -4,7 +4,7 @@
   dates: Nov 2018 - now
   quote: >
   Working as a free contractor
-
+  description: | # this will include new lines to allow paragraphs
 - layout: left
   company: Odyssey Yachting
   link: https://odysseyyachting.org/
@@ -31,3 +31,4 @@
   dates: Jan 2017 - June 2017
   quote: >
       Internship using Drupal, html, css
+  description: | # this will include new lines to allow paragraphs
