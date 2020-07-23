@@ -25,13 +25,14 @@ linkedin_username: константин-гочев-97a224151
 # about_title: About Me
 about_profile_image: images/snimka.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Constantine and I'm a software engineer. As well as engineering systems I also have experience administrating linux systems
-  and virtualizing services with <mark>KVM</mark> and <mark> Docker </mark>.
+  Hi, my name is Constantine and I'm a software engineer. 
 
   I have 4 years of experience in the industry gaining teamwork and leadership skills.
 
   I am most skilled in <mark>Javascript</mark> using the language both as a backend and frontend(react.js).
   Databases of choice for me are: <mark> MongoDB </mark>, and <mark> Redis </mark> depending on the needs of the project.
+  As well as engineering systems I also have experience administrating linux systems
+  and virtualizing services with  <mark> Docker</mark> and <mark>KVM</mark> .
 
 # Projects Section
 # projects_title: Projects
