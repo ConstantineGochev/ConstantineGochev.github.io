@@ -31,9 +31,8 @@ about_content: | # this will include new lines to allow paragraphs
   I have 4 years of experience in the industry gaining teamwork and leadership skills.
 
   I am most skilled in <mark>Javascript</mark> using the language both as a backend and frontend(react.js).
-  Databases of choice for me are: <mark> MongoDB </mark>, <mark> PostgreSQL </mark> and <mark> Redis </mark> depending on the needs of the project.
+  Databases of choice for me are: <mark> MongoDB </mark>, and <mark> Redis </mark> depending on the needs of the project.
 
-  As I grew as a developer I started using <mark>Rust</mark> and <mark>Golang</mark> around 2 years ago and lately I have been incorporating them into my services.
 # Projects Section
 # projects_title: Projects
 
@@ -47,8 +46,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Snooker
    - Running
+   - Reading 
 
 # Footer
 footer_show_references: true
