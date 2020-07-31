@@ -11,9 +11,9 @@
   name: Aiolys
   link: https://aiolys.com/
   quote: >
-  A multiplayer music based game where you have to guess the song name or artist and compete against other players.
+    A multiplayer music based game where you have to guess the song name or artist and compete against other players.
   description: | # this will include new lines to allow paragraphs
-  A platform I created the backend for. A server-side rendered nodejs monolith with a redis database.
+    A platform I created the backend for. A server-side rendered nodejs monolith with a redis database.
 - layout: left
   name: OdysseyYachting
   link: https://odysseyyachting.org
@@ -26,16 +26,16 @@
   link: https://github.com/ConstantineGochev/backend-dev
   github: https://github.com/ConstantineGochev/backend-dev
   quote: >
-  A microservice api with nodejs and golang
+    A microservice api with nodejs and golang
   description: | # this will include new lines to allow paragraphs
-  Backend for article platform with golang for db layer and grpc for communication between services.(not open source for now)
+    Backend for article platform with golang for db layer and grpc for communication between services.(not open source for now)
 - layout: left
   name: CryptoChat
   link: http://www.cryptochat.world
   quote: >
-  A small chating app
+    A small chating app
   description: | # this will include new lines to allow paragraphs
-  Very fun chat app done with node.js, docker, react.js, mongodb, redis (currently not in production because version 2.0 is being cooked)
+    Very fun chat app done with node.js, docker, react.js, mongodb, redis (currently not in production because version 2.0 is being cooked)
 - layout: left
   name: EGT Games
   link: https://egt-interactive.com/
