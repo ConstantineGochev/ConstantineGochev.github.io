@@ -24,11 +24,11 @@
     A platform  I worked on. A server-side rendered nodejs monolith.
 - layout: left
   name: Aiolys
-  link: http://aiolys.org/
+  link: https://aiolys.com/
   quote: >
     A multiplayer music based game.
   description: | # this will include new lines to allow paragraphs
-    A platform I worked on. A server-side rendered nodejs monolith.
+    A platform I created the backend for. A server-side rendered nodejs monolith with a redis database.
 - layout: left
   name: EGT Games
   link: https://egt-interactive.com/
