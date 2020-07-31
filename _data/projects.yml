@@ -1,11 +1,4 @@
-- layout: left
-  name: DevNews
-  link: https://github.com/ConstantineGochev/backend-dev
-  github: https://github.com/ConstantineGochev/backend-dev
-  quote: >
-    A microservice api with nodejs and golang
-  description: | # this will include new lines to allow paragraphs
-    Backend for article platform with golang for db layer and grpc for communication between services.
+
 - layout: left
   name: AnchorGateway
   link: https://github.com/ConstantineGochev/anchor-gateway
@@ -16,19 +9,35 @@
     Very small library that enables very easy handling of things like load balancing, proxying web sockets, dynamic routing and SSL encryption.
     AnchorGateway includes everything you need for easy reverse routing of your applications. Great for handling microservice routing from different domains in one single host, handling SSL and web sockets.
 - layout: left
+  name: Aiolys
+  link: https://aiolys.com/
+  quote: >
+  A multiplayer music based game where you have to guess the song name or artist and compete against other players.
+  description: | # this will include new lines to allow paragraphs
+  A platform I created the backend for. A server-side rendered nodejs monolith with a redis database.
+- layout: left
   name: OdysseyYachting
   link: https://odysseyyachting.org
   quote: >
     A peer to peer platform for yachting services I created as a independent contractor.
   description: | # this will include new lines to allow paragraphs
-    A platform  I worked on. A server-side rendered nodejs monolith.
+    A platform I worked on. A server-side rendered nodejs monolith with mongodb database.
+
 - layout: left
-  name: Aiolys
-  link: https://aiolys.com/
+  name: DevNews
+  link: https://github.com/ConstantineGochev/backend-dev
+  github: https://github.com/ConstantineGochev/backend-dev
   quote: >
-    A multiplayer music based game.
+  A microservice api with nodejs and golang
   description: | # this will include new lines to allow paragraphs
-    A platform I created the backend for. A server-side rendered nodejs monolith with a redis database.
+  Backend for article platform with golang for db layer and grpc for communication between services.(not open source for now)
+- layout: left
+  name: CryptoChat
+  link: http://www.cryptochat.world
+  quote: >
+  A small chating app
+  description: | # this will include new lines to allow paragraphs
+  Very fun chat app done with node.js, docker, react.js, mongodb, redis (currently not in production because version 2.0 is being cooked)
 - layout: left
   name: EGT Games
   link: https://egt-interactive.com/
@@ -36,10 +45,3 @@
     Casino real time multiplayer games
   description: | # this will include new lines to allow paragraphs
     Nodejs backend with WebSockets for real time communication between frontend(jquery) and backend(nodejs)
-- layout: left
-  name: CryptoChat
-  link: http://www.cryptochat.world
-  quote: >
-    A small chating app
-  description: | # this will include new lines to allow paragraphs
-    Very fun chatting app with nodejs, docker, reactjs, mongodb
