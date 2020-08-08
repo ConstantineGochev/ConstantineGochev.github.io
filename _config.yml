@@ -25,14 +25,15 @@ linkedin_username: константин-гочев-97a224151
 # about_title: About Me
 about_profile_image: images/snimka.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Constantine and I'm a software engineer. 
+  Hi, my name is Constantine and I'm a backend software engineer.
 
   I have 4 years of experience in the industry gaining teamwork and leadership skills.
 
-  I am most skilled in <mark>Javascript</mark> using the language both as a backend and frontend(react.js).
-  Databases of choice for me are: <mark> MongoDB </mark>, and <mark> Redis </mark> depending on the needs of the project.
-  As well as engineering systems I also have experience administrating linux systems
-  and virtualizing services with  <mark> Docker</mark> and <mark>KVM</mark> .
+  I am most skilled in <mark>Javascript</mark> using the language both as a backend with <mark>Node.js</mark> and UI(react.js).
+  Databases of choice for me are: <mark> MongoDB </mark>,<mark> Redis </mark> or <mark> Postgresql</mark> depending on the needs of the project.
+  As well as engineering systems I also have experience administrating <mark>Linux</mark> systems
+  and virtualizing services with  <mark> Docker</mark> and <mark>KVM</mark>.
+  I also have a deep interest in low level programming with languages such as <mark>C</mark> and <mark>Rust</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -48,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Running
-   - Reading 
+   - Reading
 
 # Footer
 footer_show_references: true
