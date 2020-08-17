@@ -1,4 +1,11 @@
 - layout: left
+  name: Quick Delivery
+  link: https://quick.delivery
+  quote: >
+    A microservice api with node and mysql
+  description: | # this will include new lines to allow paragraphs
+    A node.js api that is responsible for the products and their upc codes
+- layout: left
   name: AnchorGateway
   link: https://github.com/ConstantineGochev/anchor-gateway
   github: https://github.com/ConstantineGochev/anchor-gateway
