@@ -1,10 +1,17 @@
 - layout: left
-  name: Quick Delivery
-  link: https://quick.delivery
+  name: Scalehub
+  link: https://www.scalehub.com
   quote: >
-    A microservice api with node and mysql
+    Computer vision and language processing
   description: | # this will include new lines to allow paragraphs
-    A node.js api that is responsible for the products and their upc codes
+    Working on the backend architecture of the platform
+- layout: left
+  name: EGT Games
+  link: https://egt-interactive.com/
+  quote: >
+    Casino real time multiplayer games
+  description: | # this will include new lines to allow paragraphs
+    Nodejs backend with WebSockets for real time communication between frontend and backend
 - layout: left
   name: AnchorGateway
   link: https://github.com/ConstantineGochev/anchor-gateway
@@ -16,14 +23,13 @@
     AnchorGateway includes everything you need for easy reverse routing of your applications. Great for handling microservice routing from different domains in one single host, handling SSL and web sockets.
 - layout: left
   name: Aiolys
-  link: https://aiolys.com/
+  link: https://github.com/ConstantineGochev/aiolys2
   quote: >
     A multiplayer music based game where you have to guess the song name or artist and compete against other players.
   description: | # this will include new lines to allow paragraphs
-    A platform I created the backend for. A server-side rendered nodejs monolith with a redis database.
+    A server-side rendered nodejs monolith with a redis database.
 - layout: left
   name: OdysseyYachting
-  link: https://odysseyyachting.org
   quote: >
     A peer to peer platform for yachting services I created as a independent contractor.
   description: | # this will include new lines to allow paragraphs
@@ -36,17 +42,4 @@
     A microservice api with nodejs and golang
   description: | # this will include new lines to allow paragraphs
     Backend for article platform with golang for db layer and grpc for communication between services.(not open source for now)
-- layout: left
-  name: CryptoChat
-  link: http://www.cryptochat.world
-  quote: >
-    A small chating app
-  description: | # this will include new lines to allow paragraphs
-    Very fun chat app done with node.js, docker, react.js, mongodb, redis (currently not in production because version 2.0 is being cooked)
-- layout: left
-  name: EGT Games
-  link: https://egt-interactive.com/
-  quote: >
-    Casino real time multiplayer games
-  description: | # this will include new lines to allow paragraphs
-    Nodejs backend with WebSockets for real time communication between frontend(jquery) and backend(nodejs)
+
