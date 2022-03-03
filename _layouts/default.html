@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{%- include head.html -%}
+{%- includes head.html -%}
 
 <body>
 
-    {%- include header.html -%}
+    {%- includes header.html -%}
 
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
 
-            {%- include about.html -%}
+            {%- includes about.html -%}
 
             {%- if site.data.projects.size > 0 -%}
-                {%- include projects.html -%}
+                {%- includes projects.html -%}
             {%- endif -%}
 
             {%- if site.data.experience.size > 0 -%}
-                {%- include experience.html -%}
+                {%- includes experience.html -%}
             {%- endif -%}
 
             {%- if site.data.education.size > 0 -%}
-                {%- include education.html -%}
+                {%- includes education.html -%}
             {%- endif -%}
 
-            {%- include more.html -%}
+            {%- includes more.html -%}
 
         </div>
     </main>
 
-    {%- include footer.html -%}
+    {%- includes footer.html -%}
 
     <a href="https://github.com/sproogen/resume-theme" target="_blank">
       <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
