@@ -25,32 +25,22 @@ linkedin_username: константин-гочев-97a224151
 
 # About Section
 about_title: Introducion
-about_profile_image: images/photo.jpg
+about_profile_image: images/photo2.png
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Constantine and I enjoy writing code.
-
   I have the most experience with <mark>Javascript</mark>, using the language both as a backend and user interface.
   Databases I have used in production are: <mark> Postgresql</mark>, <mark> MongoDB </mark>,<mark> Redis </mark> depending on the needs of the project.
   I prefer to use <mark>Linux</mark> systems for my servers, also have used <mark> Docker</mark> quite a bit.
   I have had interest in lower level programming with languages such as <mark>Go</mark> <mark>C</mark> and <mark>Rust</mark>
   and would like to further my knowledge there.
 
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
 # More Section
 more_title: About Me
 more_content: | # this will include new lines to allow paragraphs
   I have a great family and my biggest goal is to find a way to make the world a place in the future where people
-  will have sovereignty over their minds, bodies and finances. A massive priority for me in the coming years is to support
-  freedom of speech and freedom of movement and assembly :)
-  My other interests include studying history by reading some ancient texts, playing snooker and pool and doing some sailing,
+  will have sovereignty over their minds, bodies and finances. 
+  The massive priority for me in the coming years is to support freedom of speech and freedom of movement and assembly :)
+  My other interests include studying history, playing snooker and pool, doing some sailing,
   yoga and martial arts.
 
 # Footer
