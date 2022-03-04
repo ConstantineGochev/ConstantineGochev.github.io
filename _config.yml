@@ -1,7 +1,7 @@
 # Content configuration version
 version: 1
 # Site
-repository: sproogen/resume-theme
+repository: "sproogen/resume-theme"
 favicon: images/favicon.ico
 
 # Personal info
@@ -57,7 +57,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 github: [metadata]
 # Build settings
-remote_theme: "sproogen/resume-theme@1.8.2"
+remote_theme: "sproogen/resume-theme"
 
 sass:
   sass_dir: _sass
